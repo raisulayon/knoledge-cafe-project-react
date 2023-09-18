@@ -1,0 +1,45 @@
+[
+    {
+        "id": "b87599a2-6c19-43c2-9753-af3e4dfe5f71",
+        "cover": "https://i.ibb.co/yg6cbTy/nasa-h-I5d-X2-Ob-As-unsplash.jpg",
+        "title":"You Were Loved Into Existence",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/Fnt48hr/girl2.jpg",
+        "publish_date": "2023-09-18T15:23:00",
+        "reading_times": 8,
+        "hashtags": ["fiction", "story"]
+    },
+    {
+        "id": "a9d02f7b-1c9d-4c1f-9e16-5307f63c64d9",
+        "cover": "https://i.ibb.co/jWzMS16/luca-bravo-XJXWbf-So2f0-unsplash.jpg",
+        "title": "Coding for Beginners",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/Z62C0gT/boy1.png",
+        "publish_date": "2023-09-17T10:45:00",
+        "reading_times": 14,
+        "hashtags": ["technology", "coding"]
+    },
+    {
+        "id": "c4c985d8-e924-4325-9a8a-2f83d6e1a4f6",
+        "cover": "https://i.ibb.co/7kCZBvk/diego-jimenez-A-NVHPka9-Rk-unsplash.jpg",
+        "title": "Exciting Adventure",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/nQX0r9s/girl1.jpg",
+        "publish_date": "2023-09-16T08:30:00",
+        "reading_times": 23,
+        "hashtags": ["travel", "adventure"]
+    },
+    {
+        "id": "e10ac075-df3b-4ef3-8f8d-6b0e611d46e3",
+        "cover": "https://i.ibb.co/0FNsL6B/jason-briscoe-7-MAj-XGUma-Pw-unsplash.jpg",
+        "title": "Delicious Recipes",
+        "author": "Bob Anderson",
+        "author_img": "https://i.ibb.co/Fnt48hr/girl2.jpg",
+        "publish_date": "2023-09-15T14:10:00",
+        "reading_times": 7,
+        "hashtags": ["food", "cooking"]
+    }
+]
+
+
+
